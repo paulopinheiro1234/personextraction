@@ -1,0 +1,9 @@
+raw\crawling\ExternalLinkWriter.class
+raw\crawling\PerfilExtractor.class
+raw\crawling\SubPageExtractor.class
+raw\crawling\Main.class
+raw\crawling\UrlUtils.class
+raw\crawling\JsonWriter.class
+raw\crawling\NomeDetector.class
+raw\crawling\Crawler.class
+raw\crawling\JsonWriter$PaginaConteudo.class
